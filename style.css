@@ -1,0 +1,9 @@
+.register {
+  font-size: 10px !important;
+}
+
+button {
+  font-size: 30px !important;
+  color: orange !important;
+  font-weight: bolder;
+}
